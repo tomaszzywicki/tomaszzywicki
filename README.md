@@ -17,13 +17,12 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Tomek 🤠</h1>
 <h3 align="center">Currently a Data Science student at Warsaw University of Technology</h3>
-📫 How to reach me
+<h5>📫 How to reach me</h5>
 <ul>
   <a href="https://www.linkedin.com/in/tomasz-zywicki/">LinkedIn</a>
-  <a href="https://www.facebook.com/duzaklata"></a>
+  <a href="https://www.facebook.com/duzaklata">Facebook</a>
+  <a href="https://www.gmail.com">tomasz.zywicki03@gmail.com</a>
 </ul>
-- [tomasz.zywicki03@gmail.com](mailto:tomasz.zywicki03@gmail.com)
-
 
 <h3 align="left">Languages and Tools:</h3>
 
