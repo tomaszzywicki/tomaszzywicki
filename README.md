@@ -18,8 +18,10 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Tomek 🤠</h1>
 <h3 align="center">Currently a Data Science student at Warsaw University of Technology</h3>
 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/in/tomasz-zywicki/)
-- [Facebook](https://www.facebook.com/duzaklata
+<ul>
+  <a href="https://www.linkedin.com/in/tomasz-zywicki/">LinkedIn</a>
+  <a href="https://www.facebook.com/duzaklata"></a>
+</ul>
 - [tomasz.zywicki03@gmail.com](mailto:tomasz.zywicki03@gmail.com)
 
 
