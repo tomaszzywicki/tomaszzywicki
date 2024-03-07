@@ -3,8 +3,11 @@
 <h3>📫 How to reach me:</h3>
 <ul>
     <a href="https://www.linkedin.com/in/tomasz-zywicki/">LinkedIn</a>
+    <br>
     <a href="https://www.facebook.com/duzaklata">Facebook</a>
+    <br>
     <a href="https://www.gmail.com">tomasz.zywicki03@gmail.com</a>
+    <br>
 </ul>
 <h2 id="stack">My tech stack</h2>
 <h3>Languages:</h3>
