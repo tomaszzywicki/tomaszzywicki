@@ -1,20 +1,3 @@
-### 
-
-<!--
-**tomaszzywicki/tomaszzywicki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <style>
     h1, h2 {
         text-align: center;
@@ -54,9 +37,7 @@ Here are some ideas to get you started:
         <a href="https://www.facebook.com/duzaklata">Facebook</a>
         <a href="https://www.gmail.com">tomasz.zywicki03@gmail.com</a>
     </ul>
-
     <h2 id="stack">My tech stack</h2>
-
     <h3>Languages:</h3>
     <div id="languages">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -64,7 +45,6 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
     </div>
-
     <h3>Data science tools:</h3>
     <div id="data-science">
         <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
@@ -73,8 +53,6 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/Seaborn-007396?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn">
         <img src="https://img.shields.io/badge/Scikit%20learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
     </div>
-
-
     <h3>Web develompent:</h3>
     <div id="web">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -83,4 +61,3 @@ Here are some ideas to get you started:
     </div>
 </body>
 </html>
-
