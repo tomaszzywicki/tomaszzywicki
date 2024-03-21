@@ -37,4 +37,4 @@
     <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim">
 </div>
 
-![](https://komarev.com/ghpvc/?username=tomaszzywicki&style=for-the-badge)
+![](https://hit.yhype.me/github/profile?user_id=147525982)
