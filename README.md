@@ -38,3 +38,5 @@
 </div>
 
 ![](https://hit.yhype.me/github/profile?user_id=147525982)
+
+[![](https://visitcount.itsvg.in/api?id=tomaszzywicki&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
