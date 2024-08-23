@@ -2,7 +2,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=tomaszzywicki.tomaszzywicki" />
 </p>
 
-<h1 align="center">Hi! 👋 I'm Tomasz Żywicki</h1>
+<h1 align="center">Hi! 👋 I'm Tomek</h1>
 
 
 <h3 align="center">Currently a Data Science student at Warsaw University of Technology</h2>
