@@ -41,7 +41,7 @@
         </div>
         <br>
         <br>
-        <h2 align="center">🎯 Github stats 🎯</h2>
+        <h2 align="center">🎯 Github stits 🎯</h2>
         <br>
         <div align="center">
             <img width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=tomaszzywicki&theme=react&border_radius=10" alt="streak stats"/>
